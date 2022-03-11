@@ -21,10 +21,6 @@ I am full-stack developer passionate about finding solutions to problems and awe
 
 [![Jorge Sandi GitHub Stats](https://github-readme-stats.vercel.app/api?username=jsandicr&show_icons=true&count_private=true)](https://github.com/jsandicr)
 
-### Github Repos
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jsandicr&repo=Tienda&show_owner=true)](https://github.com/jsandicr/Tienda)
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
