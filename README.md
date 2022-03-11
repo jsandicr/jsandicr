@@ -23,7 +23,7 @@ I am full-stack developer passionate about finding solutions to problems and awe
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jsandicr&repo=PackageTemplate&show_owner=true)](https://github.com/jsandicr/Tienda)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jsandicr&repo=Tienda&show_owner=true)](https://github.com/jsandicr/Tienda)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
