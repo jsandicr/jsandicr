@@ -3,7 +3,7 @@
 
 <div>
  <p>
-I am full-stack developer passionate about finding solutions to problems and awesome design. Skilled at writing well-designed, testable and efficient code using current best practices. Fast learner, hard worker and team player.
+I am full-stack developer passionate about finding solutions to problems and make awesome designs. Skilled at writing well-designed, testable and efficient code using current best practices. Fast learner, hard worker and team player.
 </p>
 </div>
 
