@@ -6,7 +6,7 @@
 
 ### - I am full-stack developer passionate about finding solutions to problems and make awesome designs. Skilled at writing well-designed, testable and efficient code using current best practices. Fast learner, hard worker and team player..
 
-<iframe src="https://giphy.com/embed/765ccrAiB0g9z6EApL" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/765ccrAiB0g9z6EApL">via GIPHY</a></p>
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/jsandicr/jsandicr/blob/master/assets/giphy1.gif">
 
 ### - Learning :
 - ✨ Cibersecurity
