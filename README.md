@@ -57,8 +57,6 @@
 <p>
  </br>
  
- <img hight="200" width="100%" alt="GIF" align="center" src="https://github.com/jsandicr/jsandicr/blob/main/assets/giphy2.gif"></img>
- 
  🤝🏻 Connect with Me
 
   <p align="left">
