@@ -59,15 +59,16 @@
  
  🤝🏻 Connect with Me
 
-
-<p align="left">
-    <a href="mailto:jsandicr16@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-jsandicr16@gmail.com-red?style=flat&logo=gmail"></a>
-    <a href="https://www.instagram.com/jorge_sandi1/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-jsandicr16-white?style=flat&logo=instagram"></a>
-    <a href="https://www.linkedin.com/in/jorge-sandi-0b363b206/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@JorgeSandi-blue?style=flat&logo=linkedin"></a>
-</p>
-<p align="right">
- <img hight="200" width="200" alt="GIF" align="center" src="https://github.com/jsandicr/jsandicr/blob/main/assets/giphy2.gif"></img>
-<p/>
+<p display="flex">
+  <p align="left">
+      <a href="mailto:jsandicr16@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-jsandicr16@gmail.com-red?style=flat&logo=gmail">   </a>
+      <a href="https://www.instagram.com/jorge_sandi1/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-jsandicr16-white?style=flat&logo=instagram"></a>
+      <a href="https://www.linkedin.com/in/jorge-sandi-0b363b206/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@JorgeSandi-blue?style=flat&logo=linkedin"></a>
+  </p>
+  <p align="right">
+   <img hight="200" width="200" alt="GIF" align="center" src="https://github.com/jsandicr/jsandicr/blob/main/assets/giphy2.gif"></img>
+  <p/>
+ <p/>
 </p>
  
 
