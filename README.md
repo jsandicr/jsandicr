@@ -56,7 +56,7 @@
 
 <p>
  </br>
- <img hight="300" width="300" alt="GIF" align="center" src="https://github.com/jsandicr/jsandicr/blob/main/assets/giphy1.gif"></img>
+ <img hight="200" width="200" alt="GIF" align="center" src="https://github.com/jsandicr/jsandicr/blob/main/assets/giphy2.gif"></img>
  
  🤝🏻 Connect with Me
 
