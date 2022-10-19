@@ -9,7 +9,6 @@
 <img hight="300" width="300" alt="GIF" align="center" src="https://github.com/jsandicr/jsandicr/blob/main/assets/giphy1.gif"></img>
 
 ### - Learning :
-- ✨ Cibersecurity
 - ✨ NoSQL
 
 ### - Hobbies : 
@@ -29,6 +28,7 @@
 
  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="24">](https://developer.mozilla.org/es/docs/Web/JavaScript)
+  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" width="24">](https://www.typescriptlang.org/)
  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="24">](https://es.reactjs.org/)
  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/)
  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" width="38">](https://www.java.com/es/download/help/whatis_java.html)
