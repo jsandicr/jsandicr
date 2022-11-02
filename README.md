@@ -12,9 +12,9 @@
 - ✨ NoSQL
 
 ### - Hobbies : 
-- ✨ Gaming
-- ✨ Watching Anime
-- ✨ Go gym
+- ✨ VideoGames 🎮
+- ✨ Watch Anime 🎭
+- ✨ Go gym 🏋️
 
 </br>
 </br>
