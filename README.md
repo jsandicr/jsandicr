@@ -8,9 +8,6 @@
 
 <img hight="300" width="300" alt="GIF" align="center" src="https://github.com/jsandicr/jsandicr/blob/main/assets/giphy1.gif"></img>
 
-### - Learning :
-- ✨ NoSQL
-
 ### - Hobbies : 
 - ✨ VideoGames 🎮
 - ✨ Watch Anime 🎭
