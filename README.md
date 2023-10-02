@@ -1,8 +1,8 @@
-# Jorge Sandi 👋
+<h1 color="F0F0F0">Jorge Sandi 👋</h1>
 
 </br>
 
-# About ME 💬 :
+<h2 color="F0F0F0">About ME 💬 :</h2>
 
 <p color="F0F0F0">
 💻I am full-stack developer passionate about finding solutions to problems and make awesome designs. Skilled at writing well-designed, testable and efficient code using current best practices. Fast learner, hard worker and team player..
@@ -10,17 +10,17 @@
 
 <img hight="300" width="300" alt="GIF" align="center" src="https://github.com/jsandicr/jsandicr/blob/main/assets/giphy1.gif"></img>
 
-### - Hobbies : 
+<h2 color="F0F0F0">- Hobbies :</h2>
+<p color="F0F0F0">
 - ✨ VideoGames 🎮
 - ✨ Watch Anime 🎭
 - ✨ Go gym 🏋️
-
+</p>
 </br>
 </br>
 
 
-
-# Languages & Tools 👨‍💻 🛠:
+<h2 color="F0F0F0">Languages & Tools 👨‍💻 🛠:</h2>
 </br>
 
 <p align="center">
@@ -53,8 +53,7 @@
 </br>
 
 
-
-# Contact Me :
+<h2 color="F0F0F0">Contact Me :</h2>
 
 <p>
  </br>
