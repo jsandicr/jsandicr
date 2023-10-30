@@ -5,7 +5,7 @@
 <h2 color="F0F0F0">About ME 💬 :</h2>
 
 <p color="F0F0F0">
-💻I am full-stack developer passionate about finding solutions to problems and make awesome designs. Skilled at writing well-designed, testable and efficient code using current best practices. Fast learner, hard worker and team player..
+💻I am software engineer passionate about finding solutions to problems and make awesome designs. Skilled at writing well-designed, testable and efficient code using current best practices. Fast learner, hard worker and team player..
 </p>
 
 <img hight="300" width="300" alt="GIF" align="center" src="https://github.com/jsandicr/jsandicr/blob/main/assets/giphy1.gif"></img>
