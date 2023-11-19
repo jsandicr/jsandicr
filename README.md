@@ -10,15 +10,8 @@
 
 <img hight="300" width="300" alt="GIF" align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHk3YW5qaDJhZjh5YnlhNnNiMGN4d3E5dndjeGR2MnkzN2xxZTh0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif"></img>
 
-<h2 color="F0F0F0">- Hobbies :</h2>
-<p color="F0F0F0">
-- ✨ VideoGames 🎮
-- ✨ Watch Anime 🎭
-- ✨ Go gym 🏋️
-</p>
 </br>
 </br>
-
 
 <h2 color="F0F0F0">Languages & Tools 👨‍💻 🛠:</h2>
 </br>
