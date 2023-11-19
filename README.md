@@ -8,7 +8,6 @@
 💻I am software engineer passionate about finding solutions to problems and make awesome designs. Skilled at writing well-designed, testable and efficient code using current best practices. Fast learner, hard worker and team player..
 </p>
 
-<iframe src="https://giphy.com/embed/h408T6Y5GfmXBKW62l" width="480" height="426" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/codeit-official-coding-helloworld-codeit-h408T6Y5GfmXBKW62l">via GIPHY</a></p>
 <img hight="300" width="300" alt="GIF" align="center" src="https://github.com/jsandicr/jsandicr/blob/main/assets/giphy1.gif"></img>
 
 <h2 color="F0F0F0">- Hobbies :</h2>
