@@ -8,7 +8,7 @@
 💻I am software engineer passionate about finding solutions to problems and make awesome designs. Skilled at writing well-designed, testable and efficient code using current best practices. Fast learner, hard worker and team player..
 </p>
 
-<img hight="300" width="300" alt="GIF" align="center" src="https://github.com/jsandicr/jsandicr/blob/main/assets/giphy1.gif"></img>
+<img hight="300" width="300" alt="GIF" align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHk3YW5qaDJhZjh5YnlhNnNiMGN4d3E5dndjeGR2MnkzN2xxZTh0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif"></img>
 
 <h2 color="F0F0F0">- Hobbies :</h2>
 <p color="F0F0F0">
